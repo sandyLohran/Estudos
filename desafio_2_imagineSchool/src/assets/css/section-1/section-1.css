@@ -1,0 +1,33 @@
+.section1{
+    position: relative;
+    margin: 2rem 0;
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+}
+.section1__cont{
+    margin: 2rem 0;
+    align-items: center;
+    
+}
+.cont__btn{
+    font-family: Chakra Petch;
+    position: absolute;
+    width: 12.9375rem;
+    height: 2.8125rem;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    background: #1627C8;
+    color: #FFFFFF;
+    border-radius: 10px;
+    border: unset;
+    cursor: pointer;
+}
+.cont__p{border-radius: 26px;
+    font-size: 1.875rem;
+    font-family: Chakra Petch;
+    
+}
+.imagem__astronauta{
+    width: 28.625rem;
+    
+}

@@ -1,0 +1,23 @@
+.pesquisar{
+    display: flex;
+}
+.pesquisar input{
+    background-color: rgba(217,217,217, 0.8);
+    width: 295px;
+    height: 48px;
+    border: unset;
+    border-radius: 26px;
+    text-align: center;
+    box-shadow: 0px 3px 0px #0004;
+}
+.pesquisar__btn{
+    background-color: rgba(217,217,217, 0.8);
+    position: relative;
+    width: 38px;
+    height: 38px;
+    left: 50px;
+    top: 7px;
+    border: none;
+    cursor: pointer;
+    border-radius: 26px;
+}

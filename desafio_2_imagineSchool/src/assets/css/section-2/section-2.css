@@ -1,0 +1,12 @@
+.section2__ul {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    justify-content: space-around;
+}
+.ul__blocos {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    
+}
