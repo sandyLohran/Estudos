@@ -3,10 +3,17 @@
     align-items: center;
     gap: 1rem;
     justify-content: space-around;
+    
 }
 .ul__blocos {
     display: flex;
     align-items: center;
     gap: 1rem;
     
+    
+}
+
+.section2__ul--li {
+    text-decoration: none;
+    list-style: none;
 }
