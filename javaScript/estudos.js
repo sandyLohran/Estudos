@@ -6,6 +6,7 @@ function calcularAreRetandulo(largura, altura){ //criando uma funcao
 
 
 
+
 console.log("Calcular Area de um retangulo!!");
 const larguraRetangulo = 52;
 const alturaRetangulo = 10;
@@ -34,6 +35,7 @@ console.log(listaDestinos);
 let condicional = true;
 let contador = 0;
 console.log("Iniciando While!!")
+
 while(condicional == true) {
     if (contador == 5){
         condicional = false;
